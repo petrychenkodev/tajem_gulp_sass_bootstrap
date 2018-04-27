@@ -1,3 +1,3 @@
 #Tajem
 
-[Demo](https://mateacademy-fe-study.github.io/YB-Tajam/)
+[Demo](https://petrychenkodev.github.io/tajem_gulp_sass_bootstrap/)
